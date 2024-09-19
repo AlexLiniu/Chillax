@@ -40,10 +40,10 @@
 /*Chillax Roots*/
 :root {
     /*background image*/ /*(replace the link to use)*/
-    --background-image: url(https://cdn.nest.rip/uploads/591f106f-2ce0-41bf-a700-4cdad32364de.jpg);
+    --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    /*--wallpaper: url("https://wallpaperaccess.com/full/2799204.jpg");
+    /--wallpaper: url("https://cdn.nest.rip/uploads/591f106f-2ce0-41bf-a700-4cdad32364de.jpg");
     /*modern background selection*/
     --modern-dark-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-dark-bg.png");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
